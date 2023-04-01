@@ -1,0 +1,14 @@
+﻿body
+{
+    background-color: #121212;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
